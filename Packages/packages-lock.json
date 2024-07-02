@@ -23,6 +23,13 @@
       "dependencies": {},
       "hash": "12574c32f658fa23c194357141abc3fc157ea362"
     },
+    "com.google.external-dependency-manager": {
+      "version": "1.2.181",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "com.unity.burst": {
       "version": "1.8.13",
       "depth": 1,
